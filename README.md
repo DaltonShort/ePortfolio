@@ -7,4 +7,4 @@ Links to code review in youtube
 - part 2: https://youtu.be/NcPTYVQ72L0
 - part 3: https://youtu.be/gOz7g9lrsYg
 
-[Enhancement 1: ](url)
+[Enhancement 1: ](https://github.com/DaltonShort/ePortfolio/blob/main/Inventory%20app%20Files.zip)
